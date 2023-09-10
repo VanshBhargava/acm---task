@@ -1,0 +1,3138 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.real-estate-HUu {
+  width: 100%;
+  row-gap: 9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7f8fa;
+}
+.real-estate-HUu .header-uFP {
+  width: 100%;
+  height: 88.5rem;
+  position: relative;
+  background-color: #f7f8fa;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .background-1xd {
+  width: 160rem;
+  height: 85.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.real-estate-HUu .header-uFP .navigate-uHK {
+  width: 111rem;
+  height: 3rem;
+  position: absolute;
+  left: 24.5rem;
+  top: 6.5rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .constructor-RWZ {
+  margin-right: 18.4667rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .search-uwX {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .search-uwX .icon-Ty3 {
+  margin: 0rem 2.695rem 0.094rem 0rem;
+  width: 1.7048rem;
+  height: 1.7058rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .search-uwX .search-xeu {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.1428571429;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .auto-group-vweq-Ftu {
+  box-sizing: border-box;
+  padding-left: 17.8667rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .auto-group-vweq-Ftu .menu-oQd {
+  margin: 0.25rem 17.867rem 0.25rem 0rem;
+  height: calc(100% - 0.5rem);
+  display: flex;
+  column-gap: 3.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .auto-group-vweq-Ftu .menu-oQd .about-iGh {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .auto-group-vweq-Ftu .menu-oQd .services-zNd {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .auto-group-vweq-Ftu .menu-oQd .reviews-wHs {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .auto-group-vweq-Ftu .menu-oQd .contacts-UYh {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .navigate-uHK .auto-group-vweq-Ftu .get-in-touch-2aD {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.1428571429;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh {
+  width: 74.6rem;
+  height: 42.75rem;
+  position: absolute;
+  left: 42.7rem;
+  top: 22rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .header-uFP .content-mnh .head-ue1 {
+  margin-bottom: 12.75rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .head-ue1 .badge-GDf {
+  margin: 0rem 32rem 6.5rem 32rem;
+  width: calc(100% - 64rem);
+  height: 3rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6rem 12rem rgba(255, 102, 51, 0.3000000119);
+  background-color: #ff6633;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .head-ue1 .fresh-flowers-every-UqX {
+  max-width: 74.6rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.40625;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 {
+  margin: 0rem 0.65rem 0rem 1.35rem;
+  width: calc(100% - 2rem);
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 .address-vhX {
+  margin-right: 9.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 .address-vhX .icon-5qK {
+  margin: 0.068rem 3.631rem 0rem 0rem;
+  width: 1.6687rem;
+  height: 1.6679rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 .address-vhX .s-1st-st-brookly-1U5 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 .phone-wcd {
+  margin-right: 8.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 .phone-wcd .icon-uZT {
+  margin: 0rem 3.604rem 0.004rem 0rem;
+  width: 1.7964rem;
+  height: 1.7964rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 .phone-wcd .item-929-356-0147-39s {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 .email-x1w {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 .email-x1w .icon-W3T {
+  margin-right: 3.5rem;
+  width: 2rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .content-mnh .contacts-oN1 .email-x1w .hotelgmailcom-F13 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .header-uFP .button-B9b {
+  width: 14.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 72.9rem;
+  top: 82.5rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 900;
+  line-height: 2.1428571429;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 3rem;
+}
+.real-estate-HUu .content-d1b {
+  margin: 0 24.5rem;
+  width: calc(100% - 49rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 {
+  margin-bottom: 9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .head-KQD {
+  margin: 0rem 14.65rem 5rem 14.65rem;
+  width: calc(100% - 29.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .head-KQD .auto-group-mbmk-Mrh {
+  width: 100%;
+  height: 22rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .head-KQD .auto-group-mbmk-Mrh .our-story-J1F {
+  width: 81.7rem;
+  height: 22rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 15rem;
+  font-weight: 900;
+  line-height: 1.4666666667;
+  text-transform: uppercase;
+  color: #D3D3D3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .head-KQD .auto-group-mbmk-Mrh .badge-cGq {
+  width: 9.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 36.05rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #28cc38;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(40, 204, 56, 0.1000000015);
+  border-radius: 1.5rem;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .head-KQD .auto-group-mbmk-Mrh .we-will-find-the-best-option-jVs {
+  width: 45.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 17.95rem;
+  top: 9.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .head-KQD .real-estate-is-property-consisting-of-land-and-the-buildings-on-it-along-with-its-natural-resources-such-as-crops-minerals-or-water-immovable-property-of-this-nature-an-interest-vested-in-this-also-an-item-of-real-property-more-generally-buildings-or-housing-in-general-cZf {
+  max-width: 69.9rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.1428571429;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 {
+  width: 100%;
+  height: 16rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-m5B {
+  box-sizing: border-box;
+  padding: 3.5rem 11.6rem;
+  width: 35rem;
+  height: 100%;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-m5B .content-Vms {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-m5B .content-Vms .years-TCu {
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-m5B .content-Vms .in-business-yh3 {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.1428571429;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-Uth {
+  box-sizing: border-box;
+  padding: 3.5rem 11.25rem;
+  width: 35rem;
+  height: 100%;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-Uth .content-2vD {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-Uth .content-2vD .billion-biR {
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-Uth .content-2vD .property-brokered-w1b {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.1428571429;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-dQD {
+  box-sizing: border-box;
+  padding: 3.5rem 12.9rem;
+  width: 35rem;
+  height: 100%;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-dQD .content-nH7 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-dQD .content-nH7 .item-10000-kDw {
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .about-ZR3 .row-ou3 .item-dQD .content-nH7 .transactions-s3f {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.1428571429;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M {
+  margin: 0rem 9.1rem 9rem 9.2rem;
+  width: calc(100% - 18.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .head-H7P {
+  margin-bottom: 6rem;
+  width: 100%;
+  height: 28rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .head-H7P .services-dBF {
+  width: 92.7rem;
+  height: 22.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 20rem;
+  font-weight: 900;
+  line-height: 1.1;
+  text-transform: uppercase;
+  color: #D3D3D3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .services-B4M .head-H7P .badge-wSq {
+  width: 8.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 42rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #3360ff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(51, 97, 255, 0.1000000015);
+  border-radius: 1.5rem;
+  margin-top: -30px;
+}
+.real-estate-HUu .content-d1b .services-B4M .head-H7P .services-for-maximum-efficiency-Cdf {
+  width: 53.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 9.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .services-B4M .head-H7P .we-have-developed-a-unique-space-where-you-can-work-and-create-we-thought-of-everything-to-the-smallest-detail-you-will-be-able-to-conduct-your-business-conduct-meetings-meetings-tmP {
+  width: 67.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 12.45rem;
+  top: 22rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.1428571429;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb {
+  margin: 0rem 4.4rem 0rem 4.3rem;
+  width: calc(100% - 8.7rem);
+  height: 18.5rem;
+  display: flex;
+  column-gap: 6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-d6h {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-d6h .base-and {
+  margin-bottom: 4rem;
+  width: 12rem;
+  height: 12rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 12rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-d6h .house-idw {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-f3P {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-f3P .base-pgy {
+  margin-bottom: 4rem;
+  width: 12rem;
+  height: 12rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 12rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-f3P .appartament-ZuT {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-Jc9 {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-Jc9 .base-4rD {
+  margin-bottom: 4rem;
+  width: 12rem;
+  height: 12rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 12rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-Jc9 .office-p4h {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-xRo {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-xRo .base-85P {
+  margin-bottom: 4rem;
+  width: 12rem;
+  height: 12rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 12rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-xRo .warehouse-GBb {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-oSR {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-oSR .base-NEd {
+  margin-bottom: 4rem;
+  width: 12rem;
+  height: 12rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 12rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .services-B4M .row-uRb .item-oSR .parking-WLq {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj {
+  margin-bottom: 9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV {
+  box-sizing: border-box;
+  padding: 0rem 20.55rem 6rem 20.55rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .head-hgD {
+  margin-bottom: 6rem;
+  width: 100%;
+  height: 28rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .head-hgD .deals-erM {
+  width: 61.2rem;
+  height: 22.1rem;
+  position: absolute;
+  left: 4.35rem;
+  top: 0;
+  text-align: center;
+  font-size: 20rem;
+  font-weight: 900;
+  line-height: 1.1;
+  text-transform: uppercase;
+  color: #D3D3D3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .head-hgD .badge-Aph {
+  width: 6.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 31.6rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #ff6633;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 102, 51, 0.1000000015);
+  border-radius: 1.5rem;
+  margin-top: -30px;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .head-hgD .our-best-deals-for-today-rhX {
+  width: 40.1rem;
+  height: 6rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 9.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .head-hgD .real-estate-is-property-consisting-of-land-and-the-buildings-on-it-along-with-its-natural-resources-such-as-crops-minerals-or-water-immovable-property-of-this-nature-ZM3 {
+  width: 69.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 22rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.1428571429;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf {
+  margin: 0rem 2.4rem 0rem 2.5rem;
+  width: calc(100% - 4.9rem);
+  height: 2.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .tab-vL1 {
+  margin-right: 6.3rem;
+  width: 3.8rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 900;
+  line-height: 1.9230769231;
+  color: #ff6633;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: dashed 0.2rem #ff6633;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .tab-cTj {
+  margin-right: 6.3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 900;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .tab-LuX {
+  margin-right: 6.3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 900;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .tab-5cD {
+  margin-right: 1.4rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 900;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .tab-cs3 {
+  margin-right: 2.9rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .tab-ZXP {
+  margin-right: 4.5rem;
+  width: 4.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .tab-ZXP .tab-WSd {
+  width: 4.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 900;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .tab-ZXP .tab-EdX {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .auto-group-kfgd-xJd {
+  width: 9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .auto-group-kfgd-xJd .tab-7BX {
+  width: 7.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1.75rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 900;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .auto-group-kfgd-xJd .tab-Rxu {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .deals-EXj .auto-group-rra5-arV .tab-QMf .auto-group-kfgd-xJd .tab-xhw {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 7rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB {
+  width: 100%;
+  height: 137rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF {
+  margin: 6rem 0rem 5rem 0rem;
+  width: 35rem;
+  height: calc(100% - 11rem);
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .image-Htd {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem 4rem 3rem 3rem;
+  width: 100%;
+  height: 19rem;
+  display: flex;
+  align-items: flex-start;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-bvq.png');
+  border-radius: 1rem 1rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .image-Htd .left-cAD {
+  margin-right: 13rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .image-Htd .left-cAD .button-9vq {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 0.82rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .image-Htd .left-cAD .button-9vq .icon-H1T {
+  margin: 0.08rem 0.82rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .image-Htd .left-cAD .button-9vq .button-oVb {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .image-Htd .left-cAD .button-6zV {
+  width: 4.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .image-Htd .button-cC9 {
+  margin-top: 1rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .content-V13 {
+  margin-left: 3rem;
+  width: 22.7rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .content-V13 .head-1EH {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .content-V13 .head-1EH .modern-glass-house-xQR {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .content-V13 .head-1EH .item-1625000-5V3 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .content-V13 .footer-QGR {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .content-V13 .footer-QGR .patrick-brem-ct-mahwah-nj07430-ZQD {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-9Gd .content-V13 .footer-QGR .beds-2-baths-3450-sqft-Un5 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .image-Wim {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  height: 19rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-iuo.png');
+  border-radius: 0.5rem 0.5rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .image-Wim .left-f5s {
+  width: 11rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .image-Wim .left-f5s .button-QZF {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 0.82rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .image-Wim .left-f5s .button-QZF .icon-Lho {
+  margin: 0.08rem 0.82rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .image-Wim .left-f5s .button-QZF .button-U3K {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .image-Wim .left-f5s .button-PRB {
+  width: 4.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .content-TR3 {
+  margin-left: 3rem;
+  width: 16.6rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .content-TR3 .head-pFb {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .content-TR3 .head-pFb .townhouse-in-the-center-y8V {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .content-TR3 .head-pFb .item-225000-6iu {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .content-TR3 .footer-dyj {
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .content-TR3 .footer-dyj .hidden-valley-way-1L5 {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-xSM .content-TR3 .footer-dyj .beds-1-baths-2300-sqft-Lt9 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .image-bZB {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  height: 19rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-Wnd.png');
+  border-radius: 0.5rem 0.5rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .image-bZB .left-9Ko {
+  width: 11rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .image-bZB .left-9Ko .button-Hwo {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 0.82rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .image-bZB .left-9Ko .button-Hwo .icon-2uP {
+  margin: 0.08rem 0.82rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .image-bZB .left-9Ko .button-Hwo .button-mMB {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .image-bZB .left-9Ko .button-J6D {
+  width: 4.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .content-wey {
+  margin-left: 3rem;
+  width: 16.6rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .content-wey .head-6Xs {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .content-wey .head-6Xs .townhouse-in-the-center-rX3 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .content-wey .head-6Xs .item-225000-nvV {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .content-wey .footer-iZF {
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .content-wey .footer-iZF .hidden-valley-way-gW5 {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-pVF .card-qa1 .content-wey .footer-iZF .beds-1-baths-2300-sqft-DW1 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy {
+  margin-bottom: 11rem;
+  width: 35rem;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .image-zfB {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  height: 19rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-zBj.png');
+  border-radius: 0.5rem 0.5rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .image-zfB .left-8mP {
+  width: 11rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .image-zfB .left-8mP .button-HeH {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 0.82rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .image-zfB .left-8mP .button-HeH .icon-E3j {
+  margin: 0.08rem 0.82rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .image-zfB .left-8mP .button-HeH .button-Z61 {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .image-zfB .left-8mP .button-GWD {
+  width: 4.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .content-YTj {
+  margin-left: 3rem;
+  width: 22.7rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .content-YTj .head-hbX {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .content-YTj .head-hbX .house-on-the-lake-fYM {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .content-YTj .head-hbX .item-225000-cCh {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .content-YTj .footer-MAH {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .content-YTj .footer-MAH .patrick-brem-ct-mahwah-nj07430-K77 {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-e5X .content-YTj .footer-MAH .beds-2-baths-3450-sqft-8aM {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .image-nQ1 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  height: 19rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-Acy.png');
+  border-radius: 0.5rem 0.5rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .image-nQ1 .left-jKF {
+  width: 11rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .image-nQ1 .left-jKF .button-Hbf {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 0.82rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .image-nQ1 .left-jKF .button-Hbf .icon-prV {
+  margin: 0.08rem 0.82rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .image-nQ1 .left-jKF .button-Hbf .button-xSu {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .image-nQ1 .left-jKF .button-5nR {
+  width: 4.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .content-Yvu {
+  margin-left: 3rem;
+  width: 16.6rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .content-Yvu .head-i4h {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .content-Yvu .head-i4h .townhouse-in-the-center-4uF {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .content-Yvu .head-i4h .item-225000-orq {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .content-Yvu .footer-9A1 {
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .content-Yvu .footer-9A1 .hidden-valley-way-Vjf {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-RZT .content-Yvu .footer-9A1 .beds-1-baths-2300-sqft-day {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .image-Gtq {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  height: 19rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-B5B.png');
+  border-radius: 0.5rem 0.5rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .image-Gtq .left-cxh {
+  width: 11rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .image-Gtq .left-cxh .button-BF7 {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 0.82rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .image-Gtq .left-cxh .button-BF7 .icon-iVw {
+  margin: 0.08rem 0.82rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .image-Gtq .left-cxh .button-BF7 .button-3YD {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .image-Gtq .left-cxh .button-yRs {
+  width: 4.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .content-F8V {
+  margin-left: 3rem;
+  width: 16.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .content-F8V .head-bi9 {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .content-F8V .head-bi9 .flat-in-center-city-m6q {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .content-F8V .head-bi9 .item-225000-thF {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .content-F8V .footer-Rx5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .content-F8V .footer-Rx5 .hidden-valley-way-bbf {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-hvy .card-Kih .content-F8V .footer-Rx5 .beds-1-baths-2300-sqft-8rV {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy {
+  margin-top: 11rem;
+  width: 35rem;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .image-LBs {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  height: 19rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-7qb.png');
+  border-radius: 0.5rem 0.5rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .image-LBs .left-5fF {
+  width: 11rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .image-LBs .left-5fF .button-qeR {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 0.82rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .image-LBs .left-5fF .button-qeR .icon-Gjj {
+  margin: 0.08rem 0.82rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .image-LBs .left-5fF .button-qeR .button-CtH {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .image-LBs .left-5fF .button-vpH {
+  width: 4.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .content-QDf {
+  margin-left: 3rem;
+  width: 22.7rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .content-QDf .head-Meh {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .content-QDf .head-Meh .townhouse-in-the-center-KLd {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .content-QDf .head-Meh .item-225000-rLZ {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .content-QDf .footer-PrH {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .content-QDf .footer-PrH .patrick-brem-ct-mahwah-nj07430-A6M {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-B45 .content-QDf .footer-PrH .beds-2-baths-3450-sqft-tY9 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .image-9U5 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  height: 19rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-aSd.png');
+  border-radius: 0.5rem 0.5rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .image-9U5 .left-Vnq {
+  width: 11rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .image-9U5 .left-Vnq .button-evd {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 0.82rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .image-9U5 .left-Vnq .button-evd .icon-bay {
+  margin: 0.08rem 0.82rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .image-9U5 .left-Vnq .button-evd .button-vt9 {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .image-9U5 .left-Vnq .button-r17 {
+  width: 4.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .content-uzy {
+  margin-left: 3rem;
+  width: 16.6rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .content-uzy .head-58m {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .content-uzy .head-58m .townhouse-in-the-center-2ph {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .content-uzy .head-58m .item-225000-xyF {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .content-uzy .footer-JGR {
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .content-uzy .footer-JGR .hidden-valley-way-cnu {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-PE1 .content-uzy .footer-JGR .beds-1-baths-2300-sqft-9nq {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .image-zoT {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  height: 19rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-2yP.png');
+  border-radius: 0.5rem 0.5rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .image-zoT .left-Ya5 {
+  width: 11rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .image-zoT .left-Ya5 .button-JJM {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 0.82rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .image-zoT .left-Ya5 .button-JJM .icon-SQZ {
+  margin: 0.08rem 0.82rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .image-zoT .left-Ya5 .button-JJM .button-Zk5 {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .image-zoT .left-Ya5 .button-VNq {
+  width: 4.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .content-AUy {
+  margin-left: 3rem;
+  width: 16.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .content-AUy .head-iWV {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .content-AUy .head-iWV .flat-in-center-city-suB {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .content-AUy .head-iWV .item-225000-1kV {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .content-AUy .footer-Lnm {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .content-AUy .footer-Lnm .hidden-valley-way-Jjb {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .deals-EXj .content-UwB .column-2gy .card-F5B .content-AUy .footer-Lnm .beds-1-baths-2300-sqft-FPw {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM {
+  margin-bottom: 12rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .head-tSu {
+  margin: 0rem 9.1rem 6rem 9.2rem;
+  width: calc(100% - 18.3rem);
+  height: 28rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .head-tSu .services-RBw {
+  width: 92.7rem;
+  height: 22.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 20rem;
+  font-weight: 900;
+  line-height: 1.1;
+  text-transform: uppercase;
+  color: #D3D3D3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .review-XcM .head-tSu .badge-LJu {
+  width: 8.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 42rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #3360ff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(51, 97, 255, 0.1000000015);
+  border-radius: 1.5rem;
+  margin-top: -30px;
+}
+.real-estate-HUu .content-d1b .review-XcM .head-tSu .services-for-maximum-efficiency-Ddb {
+  width: 53.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 9.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .review-XcM .head-tSu .we-have-developed-a-unique-space-where-you-can-work-and-create-we-thought-of-everything-to-the-smallest-detail-you-will-be-able-to-conduct-your-business-conduct-meetings-meetings-iaM {
+  width: 67.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 12.45rem;
+  top: 22rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.1428571429;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff {
+  width: 100%;
+  height: 26.5rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-tdF {
+  width: 35rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-tdF .content-TRT {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem 5.1rem 3rem 3rem;
+  width: 100%;
+  height: 16rem;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-tdF .content-TRT .thank-you-very-much-zAV {
+  max-width: 26.9rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-tdF .user-gZ7 {
+  margin: 0rem 14.9rem 0rem 3rem;
+  width: calc(100% - 17.9rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-tdF .user-gZ7 .avatar-image-Qk1 {
+  margin-right: 2rem;
+  width: 5rem;
+  height: 100%;
+  background-color: rgba(136, 51, 255, 0.3000000119);
+  border-radius: 300rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-tdF .user-gZ7 .avatar-image-Qk1 .auto-group-m4ly-MQM {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-tdF .user-gZ7 .content-Ujs {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-tdF .user-gZ7 .content-Ujs .herbert-lindsey-ePT {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.1428571429;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-tdF .user-gZ7 .content-Ujs .new-york-usa-Pbw {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-KkV {
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-KkV .content-tHo {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem 5rem 3rem 3rem;
+  width: 100%;
+  height: 18.5rem;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-KkV .content-tHo .thank-you-very-much-1tD {
+  max-width: 27rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-KkV .user-vkH {
+  margin: 0rem 16.7rem 0rem 3rem;
+  width: calc(100% - 19.7rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-KkV .user-vkH .avatar-image-TkD {
+  margin-right: 2rem;
+  width: 5rem;
+  height: 100%;
+  background-color: rgba(204, 116, 40, 0.3000000119);
+  border-radius: 300rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-KkV .user-vkH .avatar-image-TkD .auto-group-dq6q-22d {
+  width: 5rem;
+  height: 5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-KkV .user-vkH .content-Ymf {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-KkV .user-vkH .content-Ymf .noah-russell-v81 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.1428571429;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-KkV .user-vkH .content-Ymf .new-york-usa-Tdj {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-Q3B {
+  width: 35rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-Q3B .content-Mz1 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  height: 16rem;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-Q3B .content-Mz1 .thank-you-very-much-KR3 {
+  max-width: 25.9rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-Q3B .user-Riy {
+  margin: 0rem 16.5rem 0rem 3rem;
+  width: calc(100% - 19.5rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-Q3B .user-Riy .avatar-image-kmF {
+  margin-right: 2rem;
+  width: 5rem;
+  height: 100%;
+  background-color: rgba(230, 46, 123, 0.3000000119);
+  border-radius: 300rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-Q3B .user-Riy .avatar-image-kmF .auto-group-yvvf-ue9 {
+  width: 5rem;
+  height: 5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-Q3B .user-Riy .content-q21 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-Q3B .user-Riy .content-q21 .nellie-griffith-bWy {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.1428571429;
+  color: #6b7a99;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .review-XcM .content-9ff .review-Q3B .user-Riy .content-q21 .new-york-usa-vp9 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #adb8cc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB {
+  margin-bottom: 9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .head-26V {
+  margin-bottom: 8.9rem;
+  width: 100%;
+  height: 22.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .head-26V .insta-yXX {
+  width: 57.7rem;
+  height: 22.1rem;
+  position: absolute;
+  left: 26.7rem;
+  top: 0;
+  text-align: center;
+  font-size: 20rem;
+  font-weight: 900;
+  line-height: 1.1;
+  text-transform: uppercase;
+  color: #D3D3D3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .insta-TZB .head-26V .content-tPb {
+  width: 111rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 0;
+  top: 3.25rem;
+  display: flex;
+  column-gap: 22.7rem;
+  align-items: center;
+}
+.real-estate-HUu .content-d1b .insta-TZB .head-26V .content-tPb .button-caV {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .head-26V .content-tPb .center-AM7 {
+  width: 53.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .head-26V .content-tPb .center-AM7 .badge-KE1 {
+  margin: 0rem 21.8rem 6.5rem 21.8rem;
+  width: calc(100% - 43.6rem);
+  height: 3rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #28cc38;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(40, 204, 56, 0.1000000015);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+  margin-top: -50px;
+}
+.real-estate-HUu .content-d1b .insta-TZB .head-26V .content-tPb .center-AM7 .listen-to-our-ustomers-house-PUm {
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .head-26V .content-tPb .button-hkM {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-CBK {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 25.5rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-CBK .image-XUV {
+  width: 25.5rem;
+  height: 25.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem 0 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-CBK .image-4UR {
+  width: 25.5rem;
+  height: 25.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-CBK .image-DcD {
+  box-sizing: border-box;
+  padding: 8.75rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-oHT.png');
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-CBK .image-DcD .play-yLV {
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 12rem;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-CBK .image-6g1 {
+  width: 25.5rem;
+  height: 25.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-DRK.png');
+  border-radius: 0 0.5rem 0 0;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-q7o {
+  width: 100%;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-q7o .image-ar5 {
+  width: 25.5rem;
+  height: 25.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 0.5rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-q7o .image-vf3 {
+  width: 25.5rem;
+  height: 25.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg.png');
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-q7o .image-Giu {
+  width: 25.5rem;
+  height: 25.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-TJq.png');
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .insta-TZB .instagram-dtu .row-q7o .image-2TB {
+  width: 25.5rem;
+  height: 25.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP {
+  box-sizing: border-box;
+  padding: 9.5rem 21.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f2f3f5;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .head-WNM {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  height: 25.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .head-WNM .in-touch-fW9 {
+  width: 68.8rem;
+  height: 25.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 15rem;
+  font-weight: 900;
+  line-height: 1.7;
+  text-transform: uppercase;
+  color: #D3D3D3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.real-estate-HUu .content-d1b .form-AZP .head-WNM .badge-at1 {
+  width: 9.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 29.75rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.6666666667;
+  color: #3360ff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(51, 97, 255, 0.1000000015);
+  border-radius: 1.5rem;
+}
+.real-estate-HUu .content-d1b .form-AZP .head-WNM .head-ess {
+  width: 67.7rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 0.55rem;
+  top: 9.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.real-estate-HUu .content-d1b .form-AZP .head-WNM .head-ess .get-it-touch-now-XQV {
+  margin-bottom: 3.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .head-WNM .head-ess .we-have-developed-a-unique-space-where-you-can-work-and-create-we-thought-of-everything-to-the-smallest-detail-you-will-be-able-to-conduct-your-business-conduct-meetings-meetings-Fjo {
+  max-width: 67.7rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.1428571429;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 {
+  margin: 0 0.9rem;
+  width: calc(100% - 1.8rem);
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-CBB {
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-CBB .input-7Z3 {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 2rem 3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-CBB .input-7Z3 .text-bUD {
+  margin-right: 18rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-CBB .input-7Z3 .icon-2ZX {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-CBB .input-3Ud {
+  box-sizing: border-box;
+  padding: 2rem 3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-CBB .input-3Ud .text-KS9 {
+  margin-right: 18.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-CBB .input-3Ud .icon-1pm {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-dLM {
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-dLM .input-ZUu {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 2rem 3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-dLM .input-ZUu .text-ryo {
+  margin-right: 16.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-dLM .input-ZUu .icon-xmw {
+  width: 2rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-dLM .input-Nam {
+  box-sizing: border-box;
+  padding: 2rem 3.104rem 2rem 3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-dLM .input-Nam .text-4iV {
+  margin-right: 16rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .row-dLM .input-Nam .icon-Zqb {
+  margin-bottom: 0.0036rem;
+  width: 1.7964rem;
+  height: 1.7964rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .input-f1T {
+  box-sizing: border-box;
+  padding: 2rem 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.5rem rgba(38, 51, 77, 0.0299999993);
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .input-f1T .text-rbj {
+  margin-right: 51.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .input-f1T .icon-wt5 {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .content-d1b .form-AZP .content-wW9 .button-wWh {
+  margin: 0 25.6rem;
+  width: calc(100% - 51.2rem);
+  height: 6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 900;
+  line-height: 2.1428571429;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #3360ff;
+  box-sizing: border-box;
+  background-color: #3360ff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms {
+  box-sizing: border-box;
+  padding-top: 9.25rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #edeff2;
+  background-color: #f7f8fa;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh {
+  margin: 0rem 34.742rem 9rem 34rem;
+  width: calc(100% - 68.7418rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .constructor-2iV {
+  margin: 0rem 16.4rem 0.25rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #4d5e80;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR {
+  margin: 0rem 16.9rem 0.25rem 0rem;
+  height: 7rem;
+  display: flex;
+  column-gap: 5.1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR .column-WXB {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR .column-WXB .home-Exy {
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR .column-WXB .about-94M {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR .column-CoK {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR .column-CoK .gallery-Led {
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR .column-CoK .barbers-DCd {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR .column-s2H {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR .column-s2H .services-yb7 {
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .menu-SGR .column-s2H .contacts-gkR {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj {
+  margin-top: 0.45rem;
+  width: 21.4582rem;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj .stars-gtq {
+  margin-bottom: 2.1644rem;
+  display: flex;
+  column-gap: 0.2886rem;
+  align-items: center;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj .stars-gtq .icon-z8q {
+  width: 1.7114rem;
+  height: 1.6356rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj .stars-gtq .icon-JQR {
+  width: 1.7114rem;
+  height: 1.6356rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj .stars-gtq .icon-nKb {
+  width: 1.7114rem;
+  height: 1.6356rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj .stars-gtq .icon-hhT {
+  width: 1.7114rem;
+  height: 1.6356rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj .stars-gtq .icon-cpR {
+  width: 1.7114rem;
+  height: 1.6356rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj .rating-LkR {
+  margin-left: 0.4rem;
+  width: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj .rating-LkR .satisfied-ust-dDj {
+  margin-right: 2.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.1428571429;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-9eh .rating-Puj .rating-LkR .icon-Hp5 {
+  margin-bottom: 0.0815rem;
+  width: 1.5582rem;
+  height: 1.5185rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-khf {
+  box-sizing: border-box;
+  padding: 3rem 34rem 3rem 34.05rem;
+  width: 100%;
+  height: 8.5rem;
+  border: solid 0.1rem #edeff2;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-khf .content-Dr9 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.real-estate-HUu .footer-Tms .row-khf .content-Dr9 .comapny-all-Z9K {
+  margin-right: 55.45rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-khf .content-Dr9 .menu-pb3 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-khf .content-Dr9 .menu-pb3 .terms-A97 {
+  margin-right: 5.7rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.real-estate-HUu .footer-Tms .row-khf .content-Dr9 .menu-pb3 .privacy-DNH {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.9230769231;
+  color: #7d8fb3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
